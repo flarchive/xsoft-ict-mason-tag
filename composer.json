@@ -1,0 +1,56 @@
+{
+    "name": "xsoft-ict/mason-tag",
+    "description": "Add custom fields to discussions, associate with primary tag",
+    "keywords": [
+        "extension",
+        "flarum",
+        "flagrow",
+        "discussion",
+        "custom-fields"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com/"
+        },
+        {
+            "name": "Robert Bui",
+            "email": "xsoft.ict@gmail.com",
+            "homepage": "https://xsoft.asia/"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/xsoft-ict/fof-mason-tag/issues",
+        "source": "https://github.com/xsoft-ict/fof-mason-tag",
+        "forum": "https://discuss.flarum.org/d/32715-mason-tag-extension"
+    },
+    "require": {
+        "flarum/core": "^1.2"
+    },
+    "replace": {
+        "flagrow/mason": "*",
+        "fof/mason": "*"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "FoF Mason Tag",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-dungeon",
+                "backgroundColor": "#e74c3c",
+                "color": "#fff"
+            }
+        },
+        "flagrow": {
+            "discuss": "https://discuss.flarum.org/d/32715-mason-tag-extension"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Xsoft\\MasonTag\\": "src/"
+        }
+    }
+}
