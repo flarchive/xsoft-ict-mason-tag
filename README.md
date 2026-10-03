@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of xsoft-ict/mason-tag.** Not for installation: use [Packagist](https://packagist.org/packages/xsoft-ict/mason-tag) or the [upstream repository](https://github.com/xsoft-ict/fof-mason-tag).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/xsoft-ict-mason-tag/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/xsoft-ict-mason-tag/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-04-10 | `^1.2` | [Browse](https://github.com/flarchive/xsoft-ict-mason-tag/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-05-02 | `^1.2` | [Browse](https://github.com/flarchive/xsoft-ict-mason-tag/tree/archive/v1.0.1) |
+| `v1.0.2` | 2023-05-02 | `^1.2` | [Browse](https://github.com/flarchive/xsoft-ict-mason-tag/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/xsoft-ict-mason-tag.json](https://github.com/flarchive/archive-index/blob/main/packages/xsoft-ict-mason-tag.json)
 
